@@ -1,6 +1,13 @@
 # Epharma
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
+Epharma is an e-commerce application to help users to purchase medicines at the comfort of their homes. They can shop for a variety of on-the-counter drugs. If they do require a prescription medication, they would have to upload their prescription on the website and a local pharmacist would take a look at the prescription.
+
+## Sequence Diagram of Epharma
+
+Given below is the sequence of interactions on the Epharma website. The interactions between components take place in an MVC oriented manner.
+
+![](Picture1.png)
 
 ## Running the applciation
 
